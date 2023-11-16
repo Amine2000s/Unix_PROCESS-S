@@ -3,6 +3,13 @@
 #include<sys/wait.h>
 #include<stdlib.h>
 
+/*
+	my version of doing it :  1 for tree , 2 for last "  
+
+
+
+*/
+
 	void arbre (int n){
 	
 	int i;
